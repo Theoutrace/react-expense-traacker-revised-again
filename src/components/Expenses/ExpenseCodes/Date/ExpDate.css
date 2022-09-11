@@ -1,0 +1,8 @@
+.date-container-div{
+    background-color: rgba(28, 189, 17, 0);
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
